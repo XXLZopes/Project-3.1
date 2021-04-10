@@ -1,0 +1,21 @@
+.main {
+    background-color: black;
+
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modal {
+    background-color: #F7F5F4;
+    color: black;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+}
+
+.text {
+    text-align: center;
+}
